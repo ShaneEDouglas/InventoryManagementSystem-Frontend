@@ -12,7 +12,7 @@ function App() {
       <h1 className="text-3xl font-bold underline">
         Invenflow App
       </h1>
-      <p className="text-3xl underline">maybe</p>
+      <p className="text-3xl underline">Test commit</p>
       
     </>
   )
